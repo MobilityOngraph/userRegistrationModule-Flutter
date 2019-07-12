@@ -1,0 +1,64 @@
+Milestone 1
+
+1. Splash
+2. Choose language
+3. Choose Currency
+4. Walkthrough Screen
+5. Login
+6. SignUp
+7. Register
+8. Forgot password
+9. Logout
+
+
+Milestone 2
+1. Carousal View of products including Video
+2. Campaigns closing soon section
+3. Explore Campaigns section
+4. Campaigns Detail page (Price detail and Product Detail)
+
+
+Milestone 3
+1. Add to Wishlist
+2. Add to cart
+3. Sharing
+4. Wishlist Page
+5. Tickets Page
+6. Listing of winners
+
+
+Milestone 4
+1. View Cart
+2. Payment Screen and 2checkout integration
+3. Saved card
+4. Add New card
+5. Checkout
+
+
+Milestone 5
+1. Push Notification
+2. Side Menu
+3. Levels
+4. iPoints Page
+5. Language Setting
+6. Currency Setting
+7. Touch ID or Face ID Integration
+
+Milestone 6
+1. Products
+2. How It works
+3. Agreement
+4. Terms and condition
+5. FAQs
+6. Privacy Policy
+7. Social Page Linking
+8. Call US and Text US
+9. Final Testing and Delivery
+
+
+characters: Lower Case, Upper Case, Digits, Special Characters.
+
+Password verification Regex:
+
+"(?=\S{10,})(?=\S*[A-Z])(?=\S*[a-z])(?=\S*[0-9])(?=\S*[!£$%^&\"])(?<!\S)\S{10,20}(?=\s|\Z)"
+
