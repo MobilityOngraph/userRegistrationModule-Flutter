@@ -1,6 +1,6 @@
 # Flutter User Rigistration FLow
 
-We hve developed a basic user Login and Resistraion Flow which we can used in any application specificlly in E-Commerce Apps.
+We have developed a basic user Login and Resistraion Flow which we can used in any application specificlly in E-Commerce Apps.
 
 Here are the some screenshots
 
