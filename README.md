@@ -1,6 +1,26 @@
-# flutter_idealz
+# Flutter User Rigistration FLow
 
-Idealz E-commerce Application
+We hve developed a basic user Login and Resistraion Flow which we can used in any application specificlly in E-Commerce Apps.
+
+Here are the some screenshots
+
+![alt text](https://github.com/MobilityOngraph/userRegistrationModule-Flutter/blob/master/Screenshots/device-2019-07-12-151318.png)
+
+![alt text](https://github.com/MobilityOngraph/userRegistrationModule-Flutter/blob/master/Screenshots/device-2019-07-12-151408.png)
+
+![alt text](https://github.com/MobilityOngraph/userRegistrationModule-Flutter/blob/master/Screenshots/device-2019-07-12-151425.png)
+
+![alt text](https://github.com/MobilityOngraph/userRegistrationModule-Flutter/blob/master/Screenshots/device-2019-07-12-151549.png)
+
+![alt text](https://github.com/MobilityOngraph/userRegistrationModule-Flutter/blob/master/Screenshots/device-2019-07-12-151558.png)
+
+![alt text](https://github.com/MobilityOngraph/userRegistrationModule-Flutter/blob/master/Screenshots/device-2019-07-12-151624.png)
+
+![alt text](https://github.com/MobilityOngraph/userRegistrationModule-Flutter/blob/master/Screenshots/device-2019-07-12-151644.png)
+
+![alt text](https://github.com/MobilityOngraph/userRegistrationModule-Flutter/blob/master/Screenshots/device-2019-07-12-151721.png)
+
+
 
 ## Getting Started
 
